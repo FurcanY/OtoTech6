@@ -9,3 +9,9 @@
   - parkurun şemasının çizilmesi
   - geçitin modellenmesi
   - Sahneyi test amaçlı kullanabilecek şekilde oluşturma
+
+(12 Şubat - 27 Şubat)
+  - Trafik Lambasi Kullanılabilir durumda
+  - Çevre Modellemeleri
+  - Çevre Düzenlemesi
+  - Parkurun yeniden çizilmesi
