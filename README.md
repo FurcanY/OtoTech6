@@ -1,6 +1,9 @@
-## Teknofest Otonom Araç Yarışması İçin Simülasyon Ortamı
-
-### Güncellemeler 
+# Teknofest Otonom Araç Yarışması İçin Simülasyon Ortamı
+## Simülasyon Ortamından Bazı Fotoğraflar
+![ss1](https://github.com/FurcanY/OtoTech6/assets/114299899/ac32e022-950e-4504-b591-bad3428d0d53)
+![ss3](https://github.com/FurcanY/OtoTech6/assets/114299899/fc513a5d-fc13-4e50-b847-85f8e50437f4)
+![ss6](https://github.com/FurcanY/OtoTech6/assets/114299899/18fba402-52c2-4f57-afd5-e0037fe54aec)
+## Güncellemeler 
 
 (24 Ocak - 9 Şubat) 
   - Trafik Levhalarının Modellenmesi
