@@ -22,3 +22,9 @@
   - İki adet bina modelinin yapılması  ve terraine dizaynının yapılması
   - Yarışmacıların kullandığı çadırların modellenmesi ve parkura eklenmesi
   - çim ve ağaç düzenlemesi
+
+(29 Şubat)
+  - 3 Adet bina modellenmesi ve dizaynının yapılması
+  - OtoTech6 Tabelasının modellenmesi ve eklenmesi
+  - Büyük spot ışığı modellenmesi
+  - Unity ışık düzenlemesi (küçük çaplı bakış)
