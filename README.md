@@ -31,3 +31,8 @@
   - OtoTech6 Tabelasının modellenmesi ve eklenmesi
   - Büyük spot ışığı modellenmesi
   - Unity ışık düzenlemesi (küçük çaplı bakış)
+    
+(1 Mart - 5 Mart)
+  - 6 Adet bina modellenmesi ve dizayn edilmesi
+  - Tabelalarının düzeltilmesi
+  - Parkurun yeniden çizilmesi
