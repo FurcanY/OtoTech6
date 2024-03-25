@@ -38,4 +38,7 @@
   - Parkurun yeniden çizilmesi
 (11 Mart)
   - Parkurun Tekrardan çizilmesi
+
+(25 Mart)
+  - Parkur güncellemesi
     
