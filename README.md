@@ -36,3 +36,6 @@
   - 6 Adet bina modellenmesi ve dizayn edilmesi
   - Tabelalarının düzeltilmesi
   - Parkurun yeniden çizilmesi
+(11 Mart)
+  - Parkurun Tekrardan çizilmesi
+    
