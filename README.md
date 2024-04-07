@@ -38,6 +38,7 @@
 
 (25 Mart)
   - Parkur güncellemesi
+
 (8 Nisan)
   - Modüler parkur yollarının yapılması
   - Test amaçlı parkur sahnesinin oluşturulması
